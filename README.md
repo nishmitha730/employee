@@ -1,4 +1,4 @@
-# Project Name: [Insert Project Title]
+# Project Name: SQL
 
 A concise one-to-two sentence description of what this SQL project does, the database it uses, and its primary goals.
 
